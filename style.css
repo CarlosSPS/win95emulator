@@ -85,7 +85,7 @@ body {
   border-width:3px;
   border-style:solid;
   margin-bottom:10px;
-  outline:1px solid black;
+  outline:1px #808080;
 }
 
 label {
