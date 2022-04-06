@@ -10,9 +10,9 @@ body {
 
 .title{
   height:18px;
-  width:495px;
+  width: 495px;
   padding:2px;
-  background-color: #007F7F;
+  background-color: blue;
 }
 
 .title p{
