@@ -5,12 +5,14 @@ body {
   border-style:groove;
   padding:1px;
   margin:0 auto;
+  background-color: #007F7F;
 }
 
 .title{
   height:18px;
   width:495px;
   padding:2px;
+  background-color: #007F7F;
 }
 
 .title p{
@@ -18,6 +20,7 @@ body {
   float:left;
   font-weight:bold;
   font-size:12px;
+  background-color: #007F7F;
 }
 
 .title button{
@@ -40,6 +43,7 @@ body {
   font-family:"MS Sans Serif";
   font-size:12px;
   background: url(what.png) 15px 15px no-repeat;
+  background-color: #007F7F;
 }
 
 #leftside {
@@ -56,6 +60,7 @@ body {
 .body p {
   width:100%;
   margin-left:75px;
+  background-color: #007F7F;
 }
 
 #buttons {
